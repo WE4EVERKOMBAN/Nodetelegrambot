@@ -6,7 +6,7 @@ bot_token:'5401083533:AAHPjAQlOZ3OKYKnNVszEnNG6vbFDirtUxg',
 
 bot_name:'Jeja_jw_Bot',//bot username without @
 
-bot_admin:1811781327,
+bot_admin:895687774,
 
 channelsList : [''],
 
